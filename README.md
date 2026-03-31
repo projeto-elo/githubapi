@@ -31,11 +31,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 # Objetivo do Projeto
 Este projeto tem como objetivo permitir uma melhor compreensão do comércio exterior nos municípios paulistas, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* Acompanhar a evolução dos dados ao longo do tempo;
+* Analisar o desempenho dos municípios no comércio exterior;
+* Visualizar dados de forma clara com o Power BI;
+* Identificar padrões e diferenças entre os municípios;
+* Auxiliar na identificação de oportunidades.
 
 
 ## Tecnologias Utilizadas
