@@ -30,7 +30,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+Este projeto tem como objetivo permitir uma melhor compreensão do comércio exterior nos municípios paulistas, visando:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
@@ -40,12 +40,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
-* Microsoft Excel
-* Slack
+* Microsoft Office
 * Python (Colab)
-* Mysql
+* Github
 
 
 
