@@ -26,10 +26,10 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como cliente, quero ver as principais cargas movimentadas de um município, para identificar seus principais produtos de comércio exterior. | Alta       | -   |
-| US2 | Como cliente, quero buscar cargas utilizando o código SH4, para localizar rapidamente produtos específicos.         | Média      | -   |
+| US2 | Como cliente, quero que os dados sejam extraídos do Comex Stat para garantir a confiabilidade das informações.         | Alta       | -  |
 | US3 | Como cliente, quero visualizar gráficos interativos da balança comercial, para entender os dados de forma visual e intuitiva.         | Alta       | -   |
 | US4 | Como cliente, quero escolher um período de tempo para analisar os dados de um ano específico. | Média      | -   |
-| US5 | Como cliente, quero que os dados sejam extraídos do Comex Stat para garantir a confiabilidade das informações.         | Alta       | -  |
+| US2 | Como cliente, quero buscar cargas utilizando o código SH4, para localizar rapidamente produtos específicos.         | Média      | -   |
 
 ---
 
