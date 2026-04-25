@@ -11,9 +11,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+Este projeto tem como objetivo desenvolver competências práticas na área de logística por meio da Metodologia API, com foco no aprendizado aplicado e desenvolvimento de soluções, visando:
+* Utilização de cenários propostos para simular situações logísticas;
+* Aplicação da Metodologia API para desenvolvimento de competências práticas;
+* Desenvolvimento e implementação de um MVP funcional;
+* Desenvolver habilidades técnicas;
+* Uso de metodologias ágeis com organização em kickoff e sprints.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
