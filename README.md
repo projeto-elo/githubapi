@@ -50,13 +50,14 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+| ID | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| US1    | Alta       | Como cliente, quero ver as principais cargas movimentadas de um município, para identificar seus principais produtos de comércio exterior.                                                    | -          | 1      |
+| US2    | Alta       | Como cliente, quero que os dados sejam extraídos do Comex Stat para garantir a confiabilidade das informações.                                                                      | -          | 1      |
+| USD3    | Alta       | Como cliente, quero visualizar gráficos interativos da balança comercial, para entender os dados de forma visual e intuitiva.                                                | -          | 1      |
+| USD4   | Média      | Como cliente, quero escolher um período de tempo para analisar os dados de um ano específico.     | -          | 1     |
+
+| USD5   | Média     | Como cliente, quero buscar cargas utilizando o código SH4, para localizar rapidamente produtos específicos.     | -          | 1     |
 
 
 
