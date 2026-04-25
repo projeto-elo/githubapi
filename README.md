@@ -55,8 +55,7 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 | US1    | Alta       | Como cliente, quero ver as principais cargas movimentadas de um município, para identificar seus principais produtos de comércio exterior.                                                    | -          | 1      |
 | US2    | Alta       | Como cliente, quero que os dados sejam extraídos do Comex Stat para garantir a confiabilidade das informações.                                                                      | -          | 1      |
 | USD3    | Alta       | Como cliente, quero visualizar gráficos interativos da balança comercial, para entender os dados de forma visual e intuitiva.                                                | -          | 1      |
-| USD4   | Média      | Como cliente, quero escolher um período de tempo para analisar os dados de um ano específico.     | -          | 1     |
-
+| USD4   | ...      | ...     | -          | 1     |
 
 
 
