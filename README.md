@@ -57,7 +57,7 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 | USD3    | Alta       | Como cliente, quero visualizar gráficos interativos da balança comercial, para entender os dados de forma visual e intuitiva.                                                | -          | 1      |
 | USD4   | Média      | Como cliente, quero escolher um período de tempo para analisar os dados de um ano específico.     | -          | 1     |
 
-| USD5   | Média     | Como cliente, quero buscar cargas utilizando o código SH4, para localizar rapidamente produtos específicos.     | -          | 1     |
+
 
 
 
