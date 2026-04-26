@@ -37,7 +37,7 @@
 | 02     | Criar um banco de dados                           | Concluído |
 | 03     | Tratamento de dados                           | Concluído |
 | 04     | Criar ranking de municípios de São Paulo             | Concluído |
-| 05     | Criar gráficos de evoluçaõ                           | Concluído |
+| 05     | Criar gráficos de evolução                           | Concluído |
 | 06     | Listar principais produtos exportados e importados       | Concluído |
 | 07     | Busca de cargas utilizando o codígo SH4                       | Concluído |
 
