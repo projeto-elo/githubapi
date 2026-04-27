@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Projeto ELO
 
 ## 🎯 Objetivo do MVP
 - Desenvolver um dashboard funcional no Power BI para visualização de dados de importação e exportação dos municípios do estado de São Paulo  
