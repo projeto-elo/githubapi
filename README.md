@@ -52,17 +52,32 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 
 # Product Backlog
 
-| ID | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+## Sprint 1
+
+| ID | Prioridade | User Story                                                                                                                                              | 
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | US1    | Alta       | Como cliente, quero ver as principais cargas movimentadas de um município, para identificar seus principais produtos de comércio exterior.                                                    | -          | 1      |
 | US2    | Alta       | Como cliente, quero que os dados sejam extraídos do Comex Stat para garantir a confiabilidade das informações.                                                                      | -          | 1      |
 | US3    | Alta       | Como cliente, quero visualizar gráficos interativos da balança comercial, para entender os dados de forma visual e intuitiva.                                                | -          | 1      |
 | US4   | Média | Como cliente, quero escolher um período de tempo para analisar os dados de um ano específico.     | -          | 1     |
 | US5  | Média     | Como cliente, quero buscar cargas utilizando o código SH4, para localizar rapidamente produtos específicos.    | -          | 1     |
 
+## Sprint 2
 
+| ID | Prioridade | User Story                                                                                                                                              |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US6  | Média     | Como cliente, quero selecionar um município paulista para visualizar suas informações comerciais, para entender seu perfil econômico.    | -          | 2     |
+| US7  | Média     | Como cliente, quero combinar diferentes filtros simultaneamente, para obter análises mais detalhadas e específicas.    | -          | 2     |
+| US8  | Média     | Como cliente, quero comparar a balança comercial entre diferentes municípios, para identificar quais têm melhor desempenho.    | -          | 2     |
 
+## Sprint 3
 
+| ID | Prioridade | User Story                                                                                                                                              |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US9  | Média     | Como cliente, quero visualizar o ranking do município por valor agregado de exportação e importação, para comparar sua relevância econômica com outros municípios.    | -          | 3     |
+| US10  | Baixa     | Como cliente, quero acompanhar a evolução histórica da balança comercial do município, para analisar tendências ao longo do tempo.    | -          | 3     |
+| US11  | Baixa| Como cliente, quero analisar a evolução da balança comercial no período de 2021 a fevereiro de 2026, para identificar padrões e mudanças ao longo do tempo.    | -          | 3     |
+| US12  | Baixa     | Como cliente, quero obter informações sobre em qual terminal de cargas ou unidade da Receita Federal estão sendo tarifados os produtos dos municípios do Vale do Paraíba, com foco em São José dos Campos    | -          | 3     |
 
 
   
