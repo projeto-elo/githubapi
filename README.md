@@ -1,6 +1,6 @@
 <img width="2048" height="1152" alt="Estratégias Logísticas Operacionais" src="https://github.com/user-attachments/assets/0c01e033-893c-47c0-a595-3d7d40d8d802" />
 
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API)
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
