@@ -43,10 +43,19 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 
 ## Tecnologias Utilizadas
 
-* Power BI
-* Microsoft Office
-* Python (Colab)
-* Github
+
+<div>
+<p align="left">
+ <img width="200" alt="PowerBI-e1557666264791" src="https://github.com/user-attachments/assets/4aff736d-1042-49be-908c-b54791ab5a53" />
+<p align="right">
+  <img width="200" alt="GitHub" src="https://github.com/user-attachments/assets/22558f64-a058-4d90-b01b-996554d013bb" />
+
+</div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" width="50"/>
+</p>
 
 
 
