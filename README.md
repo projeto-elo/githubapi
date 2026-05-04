@@ -70,7 +70,7 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 27/04/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+| 01                | 27/04/2026 | Concluído | [MVP](MVP/sp1.md)  |
 | 02                | 18/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
