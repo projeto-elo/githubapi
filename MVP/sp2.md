@@ -23,10 +23,12 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+
+| ID | Prioridade | User Story                                                                                                                                              |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US6  | Média     | Como cliente, quero selecionar um município paulista para visualizar suas informações comerciais, para entender seu perfil econômico.    | -          | 2     |
+| US7  | Média     | Como cliente, quero combinar diferentes filtros simultaneamente, para obter análises mais detalhadas e específicas.    | -          | 2     |
+| US8  | Média     | Como cliente, quero comparar a balança comercial entre diferentes municípios, para identificar quais têm melhor desempenho.    | -          | 2     |
 
 ---
 
