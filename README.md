@@ -17,8 +17,8 @@ Este projeto tem como objetivo desenvolver competências práticas na área de l
 * [Projeto](#projeto-(api))
 * [Equipe](#Equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 # Equipe
