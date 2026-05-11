@@ -2,14 +2,7 @@
 
 # Aprendizado por Projeto Integrado (API)
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
-
-# Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Registro das Sprints](#Registro-das-Sprints)
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 
 # Projeto (API) 
@@ -19,6 +12,13 @@ Este projeto tem como objetivo desenvolver competências práticas na área de l
 * Desenvolvimento e implementação de um MVP funcional;
 * Desenvolver habilidades técnicas;
 * Uso de metodologias ágeis com organização em kickoff e sprints.
+
+# Índice
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Equipe](#Equipe)
+* [Backlog do produto](#Product-Backlog)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Registro das Sprints](#Registro-das-Sprints)
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
