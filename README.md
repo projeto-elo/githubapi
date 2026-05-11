@@ -14,8 +14,9 @@ Este projeto tem como objetivo desenvolver competências práticas na área de l
 * Uso de metodologias ágeis com organização em kickoff e sprints.
 
 # Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Projeto](#projeto-(api))
 * [Equipe](#Equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
