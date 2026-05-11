@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Projeto ELO
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
@@ -23,11 +23,13 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 
+| ID | Prioridade | User Story                                                                                                                                              |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US9  | Média     | Como cliente, quero visualizar o ranking do município por valor agregado de exportação e importação, para comparar sua relevância econômica com outros municípios.    | -          | 3     |
+| US10  | Baixa     | Como cliente, quero acompanhar a evolução histórica da balança comercial do município, para analisar tendências ao longo do tempo.    | -          | 3     |
+| US11  | Baixa| Como cliente, quero analisar a evolução da balança comercial no período de 2021 a fevereiro de 2026, para identificar padrões e mudanças ao longo do tempo.    | -          | 3     |
+| US12  | Baixa     | Como cliente, quero obter informações sobre em qual terminal de cargas ou unidade da Receita Federal estão sendo tarifados os produtos dos municípios do Vale do Paraíba, com foco em São José dos Campos    | -          | 3     |
 ---
 
 ## 📅 Sprint(s) Relacionadas
