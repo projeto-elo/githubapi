@@ -35,15 +35,20 @@
 ## 📅 Sprint(s) Goals Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Integrar dados da COMEXSTAT                        | Concluído |
+| 02     | Criar um banco de dados                           | Concluído |
+| 03     | Tratamento de dados                           | Concluído |
+| 04     | Criar ranking de municípios de São Paulo             | Concluído |
+| 05     | Criar gráficos de evolução                           | Concluído |
+| 06     | Listar principais produtos exportados e importados       | Concluído |
+| 07     | Busca de cargas utilizando o codígo SH4                       | Concluído |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Dashboard funcional com dados interativos, consoloidados e atualizados.
+- Visualizações claras (gráficos e tabelas).  
+- Presença de filtros (ex: município, período, tipo – importação/exportação). 
 
 ---
 
