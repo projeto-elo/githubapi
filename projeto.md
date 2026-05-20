@@ -47,20 +47,20 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 
 <div style="display: flex; gap: 10px;">
 
-<img width="150" alt="github" src="https://github.com/user-attachments/assets/a10cfabf-4bc5-4345-be26-b59c78862ea9" />
+
+<img width="150" alt="python" src="https://github.com/user-attachments/assets/bcb36f07-bff3-4d5b-9ba8-8df6b8b1edd7" />
 
 <img width="150" alt="power bi" src="https://github.com/user-attachments/assets/75a786a0-9b6b-404f-9aa5-13b72fa8e289" />
 
 <img width="150" alt="office" src="https://github.com/user-attachments/assets/b6f63507-641f-47ad-8875-ef0f626f22c7" />
 
-<img width="150" alt="python" src="https://github.com/user-attachments/assets/bcb36f07-bff3-4d5b-9ba8-8df6b8b1edd7" />
-
 <img width="150" alt="comexstat" src="https://github.com/user-attachments/assets/75b43ebe-1ae9-47c3-86b0-6dcfe9cbcfb5" />
+
+<img width="150" alt="github" src="https://github.com/user-attachments/assets/a10cfabf-4bc5-4345-be26-b59c78862ea9" />
+
 
 
 </div>
-
-
 
 
 
@@ -101,6 +101,6 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 27/04/2026 | Concluído | [MVP](MVP/sp1.md)  |
-| 02                | 25/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 02                | 25/05/2026 | Concluído  | [MVP](MVP/sp2.md)  |
 | 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 
