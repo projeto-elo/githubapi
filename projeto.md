@@ -52,9 +52,9 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 
 <img width="150" alt="power bi" src="https://github.com/user-attachments/assets/75a786a0-9b6b-404f-9aa5-13b72fa8e289" />
 
-<img width="150" alt="office" src="https://github.com/user-attachments/assets/b6f63507-641f-47ad-8875-ef0f626f22c7" />
-
 <img width="150" alt="comexstat" src="https://github.com/user-attachments/assets/75b43ebe-1ae9-47c3-86b0-6dcfe9cbcfb5" />
+
+<img width="150" alt="office" src="https://github.com/user-attachments/assets/b6f63507-641f-47ad-8875-ef0f626f22c7" />
 
 <img width="150" alt="github" src="https://github.com/user-attachments/assets/a10cfabf-4bc5-4345-be26-b59c78862ea9" />
 
