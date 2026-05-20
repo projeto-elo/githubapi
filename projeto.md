@@ -1,4 +1,4 @@
-<a href='https://www.youtube.com/@projetoeloapi'>
+<a href="https://www.youtube.com/@projetoeloapi" target="_blank" rel="noopener noreferrer">
 <img width="2048" height="1152" alt="Estratégias Logísticas Operacionais" src="https://github.com/user-attachments/assets/0c01e033-893c-47c0-a595-3d7d40d8d802" />
 </a>
 
