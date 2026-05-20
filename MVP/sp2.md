@@ -32,7 +32,7 @@
 
 ---
 
-## 📅 Sprint(s) Relacionadas
+## 📅 Sprint(s) Goals Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | [Funcionalidade X, Y]                        | Concluído|
