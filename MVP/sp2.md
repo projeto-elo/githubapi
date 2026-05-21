@@ -16,8 +16,9 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- Analistas de Logística que buscam entender dados de importação e exportação
+- Profissionais interessados em visualização de dados logísticos
+- Estudantes de logística e comércio exterior  
 
 ---
 
