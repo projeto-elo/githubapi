@@ -8,10 +8,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> O painel apresenta novos indicadores relevantes, como volume importado e exportado, destaque dos principais municípios e variações ao longo do tempo, mapas interativos e filtros para comparação simultânea, permitindo uma análise intermediária dos dados de comércio exterior.
 
 ---
 
