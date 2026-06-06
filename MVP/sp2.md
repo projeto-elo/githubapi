@@ -58,9 +58,8 @@
 ---
 
 ## 🚀 Próximos Passos
-- Reformulação visual para melhorar a experiência do usuário e a apresentação dos dados.  
-- Novo indicador de produtos tarifados. 
-- Expansão de funcionalidades.  
+- Pequenas correções.  
+- Apresentação na feira de soluções.  
 
 ---
 
