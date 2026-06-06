@@ -8,16 +8,14 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> O painel apresenta novos indicadores relevantes, como volume importado e exportado, balança comercial ao longo do tempo, mapas interativos e filtros para comparação simultânea, permitindo uma análise avançada dos dados de comércio exterior. 
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- Analistas de Logística que buscam entender dados de importação e exportação
+- Profissionais interessados em visualização de dados logísticos
+- Estudantes de logística e comércio exterior   
 
 ---
 
@@ -34,33 +32,37 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Integrar dados da COMEXSTAT                        | Concluído |
+| 02     | Criar um banco de dados                           | Concluído |
+| 03     | Tratamento de dados                           | Concluído |
+| 04     | Criar ranking de municípios de São Paulo             | Concluído |
+| 05     | Criar gráficos de evolução ao longo do tempo             | Concluído |
+| 06     | Criar mapas de municípios importadores e exportadores            | Concluído |
+| 07     | Listar principais produtos exportados e importados       | Concluído |
+| 08     | Busca de cargas utilizando o codígo SH4                       | Concluído | 
+
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Dashboard funcional com dados interativos, consoloidados e atualizados.
+- Visualizações claras (gráficos e tabelas).  
+- Presença de filtros (ex: município, período, tipo – importação/exportação). 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 3  
+- Clareza na interpretação dos dados (feedback qualitativo)  
+- Funcionamento correto dos filtros e interações  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Pequenas correções. 
+- Apresentação na feira de soluções.
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+  
