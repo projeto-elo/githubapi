@@ -106,5 +106,5 @@ Este projeto tem como objetivo permitir uma melhor compreensão do comércio ext
 |-------------------|------------|----------|-----------|
 | 01                | 27/04/2026 | Concluído | [MVP](MVP/sp1.md)  |
 | 02                | 25/05/2026 | Concluído  | [MVP](MVP/sp2.md)  |
-| 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 08/06/2026 | Concluído  | [MVP](MVP/sp3.md)  |
 
