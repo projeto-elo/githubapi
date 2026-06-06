@@ -40,7 +40,8 @@
 | 06     | Criar mapas de municípios importadores e exportadores            | Concluído |
 | 07     | Listar principais produtos exportados e importados       | Concluído |
 | 08     | Busca de cargas utilizando o codígo SH4                       | Concluído | 
-
+| 09     | Criar novas tabelas de superávit/déficit                       | Concluído | 
+| 10     | Análise e integração da balança comercial                       | Concluído | 
 
 ---
 
