@@ -1,4 +1,4 @@
-<img width="1281" height="717" alt="Captura de tela 2026-06-08 101242" src="https://github.com/user-attachments/assets/c0caff2c-ae35-41b6-bad5-34b280e8f2ac" />
+
 # 📌 MVP - Projeto ELO
 
 ## 🎯 Objetivo do MVP
