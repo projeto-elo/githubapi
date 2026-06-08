@@ -1,3 +1,4 @@
+<img width="1281" height="717" alt="Captura de tela 2026-06-08 101242" src="https://github.com/user-attachments/assets/c0caff2c-ae35-41b6-bad5-34b280e8f2ac" />
 # 📌 MVP - Projeto ELO
 
 ## 🎯 Objetivo do MVP
@@ -66,4 +67,10 @@
 ---
 
 ## 📂 Anexos / Evidências
-  
+<img width="1280" height="719" alt="Captura de tela 2026-06-08 101146" src="https://github.com/user-attachments/assets/40bb8f6f-4d26-4e31-9873-1729c13b5c9b" />
+<img width="1281" height="717" alt="Captura de tela 2026-06-08 101242" src="https://github.com/user-attachments/assets/61315d1d-f1c5-4edf-b51c-c7b1db61054d" />
+
+
+
+
+
