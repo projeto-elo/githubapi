@@ -67,8 +67,7 @@
 ---
 
 ## 📂 Anexos / Evidências
-[![Assista no YouTube](https://youtube.com)](https://www.youtube.com/watch?v=HzqmKhDbvdI)
-
+[![YouTube](https://shields.io)](https://www.youtube.com/watch?v=HzqmKhDbvdI)
 
 
 <img width="1280" height="719" alt="Captura de tela 2026-06-08 101146" src="https://github.com/user-attachments/assets/40bb8f6f-4d26-4e31-9873-1729c13b5c9b" />
