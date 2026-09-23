@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Análise Integrada de Segurança Viária no Brasil: sinistros com veículos pesados em autoestradas.]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
